@@ -12,7 +12,7 @@
         <img alt="version" style="height: 33px" src="https://img.shields.io/static/v1.svg?label=Version&message=2.0.0&color=389ad5&labelColor=31c4f3&style=for-the-badge" />
     </a>
     <a href="#">
-        <img alt="markdown" style="height: 33px" src="https://img.shields.io/static/v1.svg?label=Made with&message=Markdown&color=ae68cc&labelColor=6e4a7e&style=for-the-badge" />
+        <img alt="markdown" style="height: 33px" src="https://img.shields.io/static/v1.svg?label=Made%20with&message=Markdown&color=ae68cc&labelColor=6e4a7e&style=for-the-badge" />
     </a>
 </div>
 <div align="center">
